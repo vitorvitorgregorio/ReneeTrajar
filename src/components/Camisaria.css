@@ -1,0 +1,67 @@
+.borda-camisaria {
+    border-right: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 16px;
+    height: 385px;
+    padding: 64px 0 0 64px;
+    max-width: 470px;
+}
+.listaCamisaria {
+    display: flex;
+}
+.title-camisaria {
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 62px;
+    line-height: 75px;
+    color: var(--blue);
+}
+.p-camisaria {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #C4C4C4;
+}
+.ul-camisaria {
+    font-family: 'Cormorant';
+font-style: italic;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #727272;
+}
+
+@media (max-width: 750px) {
+    .title-camisaria {
+        font-family: 'Cormorant';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 46px;
+        line-height: 75px;
+        color: var(--blue);
+    }
+    .p-camisaria {
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        text-transform: uppercase;
+        color: #C4C4C4;
+    }
+    .ul-camisaria {
+        font-family: 'Cormorant';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    
+    color: #727272;
+    }
+}

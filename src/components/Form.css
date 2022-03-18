@@ -1,0 +1,50 @@
+.contato {
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 38px;
+    line-height: 46px;
+    color: var(--blue2);
+}
+.form-title {
+    padding: 16px 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 22px;
+    color: var(--blue2);
+    text-transform: uppercase;
+}
+.form-p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--gray3);
+}
+.outline-button {
+    padding: 8px 16px;
+    border: 1px solid #1c86a4;
+    color: #1c86a4;
+    background-color: transparent;
+    text-align: center;
+    min-width: 300px;
+    font-family: 'Lato';
+    font-size: 18px;
+}
+.outline-button:hover {
+    border: 1px solid var(--gold);
+    color: var(--gold);
+}
+.linha-form {
+    width: 55px;
+    margin-left: 28px;
+    color: var(--blue);
+    border: 2px solid #70B0C4;
+}
+.form-control{
+    border: 1px solid #70B0C4;
+    color: #c4c4c4;
+}

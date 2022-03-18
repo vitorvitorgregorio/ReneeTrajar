@@ -1,0 +1,21 @@
+.whats {
+    position: fixed;
+    left: 1300px;
+    padding-right: 50px;
+}
+
+@media (max-width: 1000px) {
+    .whats {
+        left: 700px;
+    }
+}
+@media (max-width: 800px) {
+    .whats {
+        left: 500px;
+    }
+}
+@media (max-width: 600px) {
+    .whats {
+        left: 320px;
+    }
+}

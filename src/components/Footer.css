@@ -1,0 +1,18 @@
+footer {
+    border-top: 1px solid var(--gold);
+}
+.cnpj {
+    font-family: "Poppins";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--gray4);
+}
+.back-top {
+    padding: 8px 16px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.288);
+    border:1px solid #fff;
+}
+.back-top:hover {
+    border:1px solid var(--blue);
+}

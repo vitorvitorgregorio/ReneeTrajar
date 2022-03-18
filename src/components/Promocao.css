@@ -1,0 +1,36 @@
+.background2 {
+    background-color: #002432;
+}
+.condicao {
+    font-family: 'Cormorant';
+    font-weight: 400;
+    font-size: 53px;
+    line-height: 64px;
+    color: var(--gold);
+}
+.compre {
+    font-family: 'Cormorant';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: var(--gold);
+}
+ul.descontos {
+    list-style: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 26px;
+    color: var(--gray2);
+}
+.descontos li {
+    margin-left: -25px;
+    padding: 16px 0;
+}
+@media(max-width: 750px){
+    .img-terno {
+        display: none;
+    }
+}

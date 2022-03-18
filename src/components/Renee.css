@@ -1,0 +1,57 @@
+.container {
+    padding: 0 auto;
+    margin: 30px auto;
+}
+.linha {
+    width: 55px;
+    border: 2px solid #70B0C4;
+    margin-left: 60px;
+}
+.titulo {
+    font-family: 'Cormorant';
+    font-weight: 300;
+    font-size: 36px;
+    color: var(--blue);
+}
+.experiencia {
+    margin-bottom: 36px;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 19px;
+    color: var(--gray);
+}
+.objetivo {
+    font-family: 'Cormorant';
+    font-weight: 400;
+    font-size: 24px;
+    font-style: italic;
+    line-height: 34px;
+    color: var(--blue2);
+}
+.nome {
+    font-family: 'Cormorant';
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--gray3);
+}
+.aspas {
+    position: absolute;
+    left: 78%;
+}
+.show-sm {
+    display: none;
+}
+@media(max-width:735px) {
+    .aspas {
+        width: 60px;
+    }
+    .show-sm {
+        display: block;
+    }
+    .show-lg {
+        display: none;
+    }
+    .linha {
+        display: none;
+    }
+}
