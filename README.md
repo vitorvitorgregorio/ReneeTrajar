@@ -26,7 +26,7 @@
 
 ## deploy da aplicação
 
-👀 [Aqui nesse link você pode ver a aplicação rodando sem precisar baixar os arquivos no seu computador](https://vitorvitorgregorio.github.io/ReneeTrajar-deploy/)
+👀 <a href="https://vitorvitorgregorio.github.io/ReneeTrajar-deploy/" target="_blank"> Aqui nesse link você pode ver a aplicação online sem precisar baixar no seu computador <a/>
 
 ## Funcionalidades
 
