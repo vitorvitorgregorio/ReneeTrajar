@@ -13,7 +13,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação)
 
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-desktop_computer)
@@ -23,6 +23,10 @@
 <p align="justify">
   Landing page construída em React, html, css, bootstrap e js para testar conhecimentos para vaga de Front-End junior na empresa Fasters 
 </p>
+
+## deploy da aplicação
+
+👀 [Aqui nesse link você pode ver a aplicação rodando sem precisar baixar os arquivos no seu computador](https://vitorvitorgregorio.github.io/ReneeTrajar-deploy/)
 
 ## Funcionalidades
 
@@ -70,6 +74,8 @@ ou
 yarn start
 ```
 Pronto 😄, agora é possível acessar a aplicação a partir da rota: http://localhost:3000
+
+
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
